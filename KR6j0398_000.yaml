@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0398/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五字陀羅尼頌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1174.xml
+    old_id: T20n1174
+hash: sha256:78fb3eca4a2da86d20cb80b2bea9b529960b987a2d67642ed8f2f0da8ef6985a
