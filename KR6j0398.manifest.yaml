@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0398/v1
 canonical_location: https://kanripo.org/bkk/KR6j0398/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 五字陀羅尼頌
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0398_000.yaml, hash: 'sha256:78fb3eca4a2da86d20cb80b2bea9b529960b987a2d67642ed8f2f0da8ef6985a'}
-  - {seq: 1, filename: KR6j0398_001.yaml, hash: 'sha256:1ad63f54c5a75d5dbe32226ebd5e575c97040ab6c7e535ef4f366e7c17b279d9'}
+  - {seq: 1, filename: KR6j0398_001.yaml, hash: 'sha256:09c023a3dca814e9c9fbf214380518ea2a90e5fd7dbea9ba1789c1f47fe39f7c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0398_000.markers.yaml, hash: 'sha256:6b2aa2020a010cd80f385d48675a17e8f10ba7c427cc710c26d960edb9dfd4ed'}
-  - {seq: 1, role: markers, filename: assets/KR6j0398_001.markers.yaml, hash: 'sha256:721c345d7ccf17f295a9fa9662a6a047540bfa73d514a934109add05f156c2e7'}
+  - {seq: 1, role: markers, filename: assets/KR6j0398_001.markers.yaml, hash: 'sha256:340b4eeabf15743bbe7172e59f45ac535d75e50e05a09ffbec2a625ab5fd978a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 五字陀羅尼頌
   type: juan
   level: 1
-hash: sha256:660c2a35d289daa24cc2b28d20e2e1abbfa9216ed9deaac786af1fb7242f6bf6
+hash: sha256:a0710fe935e3e62d1db203043457b553611cdf9aebd484d3f8f896179529a917
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
